@@ -293,3 +293,9 @@ p {
     box-shadow: 0px 63px 80px rgb(0, 0, 0);
   }
 }
+
+@media (min-width: 300px) {
+  .masuperdiv {
+    margin: 50px;
+  }
+}
