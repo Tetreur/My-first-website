@@ -27,7 +27,7 @@ h2 {
 }
 
 a {
-  color: rgb(255, 255, 255);
+  color: rgba(255, 255, 255, 0.250);
   font-family: GT Eesti Pro Display;
   font-weight: 400;
 }
@@ -85,8 +85,8 @@ p {
     opacity:0.8;
   }
 
-  #i a {
-    color: rgba(255, 255, 255, 0.171);
+  #i a:hover {
+    color: rgb(255, 255, 255);
   }
 
   .button {
