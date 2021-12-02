@@ -27,7 +27,7 @@ h2 {
 }
 
 a {
-  color: rgba(255, 255, 255, 0.250);
+  color: rgba(255, 255, 255, 0.25);
   font-family: GT Eesti Pro Display;
   font-weight: 400;
 }
@@ -83,6 +83,10 @@ p {
   .CARDS p {
     color: black;
     opacity:0.8;
+  }
+
+  a #miaou {
+    color: white;
   }
 
   #i a:hover {
